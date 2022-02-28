@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Stange [sic] and terrible news from Holland of a most lamentable tempest that happened at Utrecht and Amsterdam which did not only amaze the inhabitants, but did also very great damage to their  houses, blowing down an innumerable company of tops of houses and chimnies, and utterly destroyed one of their cathedral churches, and rooted  up many trees.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93967</idno>
+            <idno type="STC">Wing S5828A</idno>
+            <idno type="STC">ESTC R42890</idno>
+            <idno type="EEBO-CITATION">38875906</idno>
+            <idno type="OCLC">ocm 38875906</idno>
+            <idno type="VID">152421</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93967)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152421)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2296:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Stange [sic] and terrible news from Holland of a most lamentable tempest that happened at Utrecht and Amsterdam which did not only amaze the inhabitants, but did also very great damage to their  houses, blowing down an innumerable company of tops of houses and chimnies, and utterly destroyed one of their cathedral churches, and rooted  up many trees.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Wood,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained and with print show-through.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Storms --  Netherlands --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714.</term>
+               <term>Netherlands --  History --  1648-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152421:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 101 -->
+            <p>STANGE and TERRIBLE NEWS FROM HOLLAND Of a moſt Lamentable TEMPEST That happened at <hi>UTRECHT</hi> and <hi>AMSTERDAM,</hi>
+            </p>
+            <p>Which did not only Amaze the Inhabitants, but did alſo very great Damage to their Houſes, blowing down an innumerable company of Tops of Houſes and Chimnies, and utterly Deſtroyed one of their Cathe<g ref="char:EOLhyphen"/>dral Churches, and Rooted up many Trees.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Wood,</hi> 1674.</p>
+            <pb facs="tcp:152421:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 102 -->
+            <pb facs="tcp:152421:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 102 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:152421:3"/>
+            <!-- PDF PAGE 103 -->
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152421:3"/>
+            <!-- PDF PAGE 103 -->
+            <head>Strange and Wonderful News from <hi>Holland,</hi> Both from <hi>Utrecht</hi> and <hi>Amſterdam,</hi> &amp;c.</head>
+            <p>ALthough the whole Univerſe through<g ref="char:EOLhyphen"/>out its Vaſt Circumference, be (as Naturaliſts excellently Phraſe it) but one great Volume, wherein in viſible effects of Power, the Inviſible, former of all things, is too plainly legible, not to be diſcerned by all Eies; Yet in this great Folio, the Mete<g ref="char:EOLhyphen"/>ors, that is, the Clouds, Wind, Thunder, Comets, prodigious Flames, Earthquakes, and other wonderful Apparitions in the Ele<g ref="char:EOLhyphen"/>ments, are the great Characters wherein his Divinity doth in the courſe of Nature moſt conſpicuouſly declare it ſelf.</p>
+            <p>Eor if we compare theſe amazing Phaeno<g ref="char:EOLhyphen"/>mena with other works of Nature, we may juſtly pronounce that there he expreſſes him<g ref="char:EOLhyphen"/>ſelf in ſmall, but here all in Capitals: And accordingly we may obſerve the Scripture to make theſe Regions of the Air which give
+<pb n="2" facs="tcp:152421:4"/>
+               <!-- PDF PAGE 104 -->theſe Miſcellaneous ſubſtances their Birth, to be as were the Sphere of Gods Armory, his great Store<g ref="char:EOLhyphen"/>houſe and Magazine, from whence upon occaſion of the Worlds wickedneſs, when eaſe and pleaſure makes Mortals ſo inſolent, as to queſtion his Being, he takes out Artillery to Terrifie into a ſenſe, thoſe, who in the ſoft Whiſpers of a Calm and Serene Skie will not acknowledge him. For there are ſaid to be the Treaſures of his Chariots, there he utters that voice of his we call Thunder, and thence diſcharges the dreadful Shot of his right aiming Thunderbolts. And as we poor Mortals in Fleſhy Cottages are moſt moved by ſenſe, ſo the Omnipotent Creator makes choice of theſe ſtrange Exhalations, as the moſt effe<g ref="char:EOLhyphen"/>ctual means to work on our external Organs, and there<g ref="char:EOLhyphen"/>by to effect our otherwiſe inſolent and audacious minds with a juſt awe and terror of his Majeſty. For al<g ref="char:EOLhyphen"/>though the conception and Idea of a Deity be a Ce<g ref="char:EOLhyphen"/>leſtial Fire ſo natural burning in out Souls, as that like the ſtone <hi>Asbeſtos</hi> it is not to be quenched, yet by the Atheiſtical endeavours of terrene and Voluptu<g ref="char:EOLhyphen"/>ous men, it may ſo far be ſmothered, as not to mani<g ref="char:EOLhyphen"/>feſt it by any Viſible Flame, but the effects of his Power are ſo moving, and violently forcible, that when God is pleaſed to utter his Voice in Thunder, or Attacque our Deſperadoes hearts in Mountains of Briny Liquor, and roar his Greatneſs in their Ears, with the violent guſts of Tempeſtuous winds, atten<g ref="char:EOLhyphen"/>ded with the horrid Flames ſpit out of fiery Hurri<g ref="char:EOLhyphen"/>canes, or the aſtoniſhing Yells Ecchoed from the Bowels of the Quaking Earth; 'Tis not the ſtouteſt Atheiſt in ſuch a time that will not bate of his cou<g ref="char:EOLhyphen"/>rage,
+<pb n="3" facs="tcp:152421:4"/>
+               <!-- PDF PAGE 104 -->and in ſpight of his deſperate Principles, eat his own words, and in horror and trembling confeſſe that Power, which other times he not only denies, but with Oaths and Damees would Hector out of the world, That Rhodomantado of Atheiſm. <hi>Caius Ca<g ref="char:EOLhyphen"/>ligulae,</hi> though in his Pride he could have the Arto<g ref="char:EOLhyphen"/>gance to ſtile himſelf the Lord God <hi>Caligula,</hi> and once in a Huffing Pet could challenge his great God <hi>Jupiter</hi> into the Field, yet when it Thundred, his Gyant cou<g ref="char:EOLhyphen"/>rage ſhrunk into a Mouſe-hole, for then in a pittiful fear he would creep under a Bed from Shelter, and confeſs himſelf as he was indeed a man. Therefore, however ſuch things may truly be attributed to ſecond cauſes, yet both from Scripture and their own Na<g ref="char:EOLhyphen"/>ture, we may be well aſſured, that they are Inſtru<g ref="char:EOLhyphen"/>ments which God oftner uſes in an Extraordinary manner than any others, and which in their firſt de<g ref="char:EOLhyphen"/>ſignment ſeem peculiarly levelled at thoſe men, and their bold thoughts, who would firſt only Droll the world out of conceit of his Power, that they may as they think, the more pleaſantly Huff him out of his Throne. In ſuch an Age then, when not only Pro<g ref="char:EOLhyphen"/>faneneſs is Rampant, but Atheiſm its ſelf is ſo Pre<g ref="char:EOLhyphen"/>dominant, as to have obtained the Reputation of wits for thoſe, as convicted by the Law of Nations for Monſters of Mankind, the whole world adjudged to the Fire; It cannot be ſtrange if Omnipotence for its own Vindication, has ſo viſibly ſtretched forth its Arm by many late, ſtrange, and unuſual Marks of Power in almoſt all the Elements, given us ſuch ſuf<g ref="char:EOLhyphen"/>ficient Proofs, that if we ſlight theſe, we may ex<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ect that he will ſhortly write to us in <hi>Belſhazzars</hi> Chara<g ref="char:EOLhyphen"/>cters.
+<pb n="4" facs="tcp:152421:5"/>
+               <!-- PDF PAGE 105 -->For ſtill we ſee one Prodegy ſucceeding on the Neck of another, and as you will hear by the fol<g ref="char:EOLhyphen"/>lowing known Relation, we are called ſtill from one ſtrange accident to behold another. As wickedneſs has been ſome times more eminently prevalent at ſome times than at others, ſo in ſeveral Ages, at ſuch times, we have anſwerable notices of Gods Anger in effects of like Nature. Thus in the wicked Reign of <hi>Tiberius,</hi> in whoſe time Chriſt was Crucified, ſeve<g ref="char:EOLhyphen"/>ral of the moſt flouriſhing Cities of <hi>Aſia</hi> were either totally ſwallowed by Earthquake, or deſtroyed by Tempeſt. And the City of <hi>Conſtantinople</hi> in the time of the <hi>Gothik</hi> War, was ſo prodigiouſly afflicted this way, that Hiſtorians tell us that the ſtrange kinds of Noiſes, Thunder, Whiſtling, Howling, Crackling that were heard then, were Incredible. Infancy are the examples of theſe times, but to cone nearer, In the Reign of our Queen <hi>Mary,</hi> in her 5th Year, within a Mile of <hi>Nottingham,</hi> ſo violent a Tempeſt of Thun<g ref="char:EOLhyphen"/>der happened that it beat down all the Houſes and Churches thereabouts, caſt the Bells to the outſide of the Church-yard, and ſome webs of Lead four Hun<g ref="char:EOLhyphen"/>dred foot into the Field wrethen like Leather, (The River of <hi>Trent</hi> running between the two Towns) The water with the Mud in the bottom, was carried a quarter of a Mile, and caſt againſt Trees, with the violence whereof the Trees were pulled up by the Roots, and caſt 12. ſcore foot.</p>
+            <p>In our Nebouring Country of <hi>Holland,</hi> on the ſecond of <hi>Auguſt</hi> new ſtile, being our 21. of <hi>July,</hi> there hapned a moſt horrible Tempeſt which laſting in ſome parts about an hour, in ſome longer, and in ſome not
+<pb n="5" facs="tcp:152421:5"/>
+               <!-- PDF PAGE 105 -->half the time, in that ſhort ſpace did in all parts ſuch incredible ſpoil and miſchief, that the like hath been ſeldom heard of; to paſs by the more minute parti<g ref="char:EOLhyphen"/>culars which are too tedious to mention, we ſhall on<g ref="char:EOLhyphen"/>ly give you a brief account of what hapened at <hi>
+                  <g ref="char:V">Ʋ</g>trecht</hi> and <hi>Amſterdam.</hi> It is deſcribed to have been a moſt violent and unuſal Hurricane, in which the Heavens all the time by the continual Lightning Ayr and curled all ore with Flames, not unlike what is mentioned commonly in Almanacks to have happened not many years ſince in <hi>England,</hi> the noiſe of the Thunder, and roaring of the Wind, was ſo far above what is uſual, that it extreamly terified the hearers, but was more ſadly dreadful, when they not only heard, but ma<g ref="char:EOLhyphen"/>ny to their coſt felt its Rage, by the horrible ſhaking and fall of Houſes Steeples, and other Buildings; of which it ſpared no ſort, but ſeemed to threaten to bu<g ref="char:EOLhyphen"/>ry them all in one heap of Rubbiſh. In <hi>
+                  <g ref="char:V">Ʋ</g>trecht</hi> the Cathedral Church called the <hi>Dome,</hi> in leſs than a quarter of an hour, with all ſtately Pillars was utterly Ruined; all but the Steeple, which remains untoucht, the high and coſtly Steeple of St. <hi>James</hi> Church, with the Steeples of moſt of the other Churches there, are thrown to the Ground: and all the Houſes were ſo far involved in this general Convulſion, that ſcarce fifty Houſes remain in that great City, but wear the the marks of its Fury.</p>
+            <p>In <hi>Amſterdam,</hi> it laſted but half an hour, but the force of the Thunder, Lightning, Wind and Hail in that time, was prodigious. Chimneys, tops of Houſes, and Houſes themſelves, were in great numbers blown down, and moſt Trees blown down, many of which
+<pb n="6" facs="tcp:152421:6"/>
+               <!-- PDF PAGE 106 -->were carryed a great diſtance from their former Pla<g ref="char:EOLhyphen"/>ces: the Ships that lay there before the Pal<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s brake looſe, of which about half a ſcore were ov<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſet, many people were blown into the Water, and many killed by the fall of Trees and Houſes, about thirty Mills there were blown down to the ground, and thoſe eſca<g ref="char:EOLhyphen"/>ped are much damnified, Five Waggons coming from <hi>Arnheim</hi> with Paſſengers, were overturned, and moſt of the perſons killed or ſpoiled.</p>
+            <p>Laſtly, to conclude, its fury extended ſo far, as to force above 20 Ships on Shore in the <hi>Texel,</hi> and its dammage and Terror is related by ſufferers to have been above what my weak Pen or a more fluent Tongue can expreſs. Thus you have a Relation wherein you ſee how loudly in ſigns and wonders, in Storm and Thunder, God calls to Earthly Mortals, let not your Ears be deaf, but make ſome uſe of it. It is Chronicled that in the time of our victorious <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> the third, being in <hi>France</hi> and ready to fall upon the French Army, then juſt by him, there happened ſuch a terrible Storm and Tempeſt of Thunder and Lightning, that that couragious Warriour being af<g ref="char:EOLhyphen"/>frighted with it, as taking it to be a ſign that God was diſpleaſed at that cruel War, he took an Oath preſent<g ref="char:EOLhyphen"/>ly to make Peace on any reaſonable condition, which he accordingly performed.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:152421:6"/>
+            <!-- PDF PAGE 106 -->
+         </div>
+      </body>
+   </text>
+</TEI>
